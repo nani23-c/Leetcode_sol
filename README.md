@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0268-missing-number) |
+| [2491-smallest-even-multiple](https://github.com/nani23-c/Leetcode_sol/tree/master/2491-smallest-even-multiple) |
 # Binary Search
 |  |
 | ------- |
@@ -49,3 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/nani23-c/Leetcode_sol/tree/master/0387-first-unique-character-in-a-string) |
+# Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/nani23-c/Leetcode_sol/tree/master/2491-smallest-even-multiple) |
