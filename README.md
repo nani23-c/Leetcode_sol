@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/nani23-c/Leetcode_sol/tree/master/0459-repeated-substring-pattern) |
 | [1250-longest-common-subsequence](https://github.com/nani23-c/Leetcode_sol/tree/master/1250-longest-common-subsequence) |
 | [3019-furthest-point-from-origin](https://github.com/nani23-c/Leetcode_sol/tree/master/3019-furthest-point-from-origin) |
+| [3207-make-three-strings-equal](https://github.com/nani23-c/Leetcode_sol/tree/master/3207-make-three-strings-equal) |
 # Trie
 |  |
 | ------- |
