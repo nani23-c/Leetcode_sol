@@ -211,3 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/nani23-c/Leetcode_sol/tree/master/0292-nim-game) |
+# Database
+|  |
+| ------- |
+| [1258-article-views-i](https://github.com/nani23-c/Leetcode_sol/tree/master/1258-article-views-i) |
