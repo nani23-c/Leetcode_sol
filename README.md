@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nani23-c/Leetcode_sol/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/nani23-c/Leetcode_sol/tree/master/2639-separate-the-digits-in-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/nani23-c/Leetcode_sol/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/nani23-c/Leetcode_sol/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 # Greedy
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/nani23-c/Leetcode_sol/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/nani23-c/Leetcode_sol/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/nani23-c/Leetcode_sol/tree/master/0861-flipping-an-image) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/nani23-c/Leetcode_sol/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 # String
 |  |
 | ------- |
