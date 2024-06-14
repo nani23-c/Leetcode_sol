@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/nani23-c/Leetcode_sol/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/nani23-c/Leetcode_sol/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/nani23-c/Leetcode_sol/tree/master/0338-counting-bits) |
+| [1250-longest-common-subsequence](https://github.com/nani23-c/Leetcode_sol/tree/master/1250-longest-common-subsequence) |
 # Matrix
 |  |
 | ------- |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/nani23-c/Leetcode_sol/tree/master/0032-longest-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/nani23-c/Leetcode_sol/tree/master/0205-isomorphic-strings) |
 | [0459-repeated-substring-pattern](https://github.com/nani23-c/Leetcode_sol/tree/master/0459-repeated-substring-pattern) |
+| [1250-longest-common-subsequence](https://github.com/nani23-c/Leetcode_sol/tree/master/1250-longest-common-subsequence) |
 # Trie
 |  |
 | ------- |
