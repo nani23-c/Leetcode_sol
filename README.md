@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/nani23-c/Leetcode_sol/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/nani23-c/Leetcode_sol/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/nani23-c/Leetcode_sol/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/nani23-c/Leetcode_sol/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/nani23-c/Leetcode_sol/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0268-missing-number) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/nani23-c/Leetcode_sol/tree/master/0223-rectangle-area) |
 | [1014-k-closest-points-to-origin](https://github.com/nani23-c/Leetcode_sol/tree/master/1014-k-closest-points-to-origin) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/nani23-c/Leetcode_sol/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 # Heap (Priority Queue)
