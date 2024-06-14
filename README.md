@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nani23-c/Leetcode_sol/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nani23-c/Leetcode_sol/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nani23-c/Leetcode_sol/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nani23-c/Leetcode_sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nani23-c/Leetcode_sol/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/nani23-c/Leetcode_sol/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/nani23-c/Leetcode_sol/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/nani23-c/Leetcode_sol/tree/master/0118-pascals-triangle) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # String Matching
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nani23-c/Leetcode_sol/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/nani23-c/Leetcode_sol/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nani23-c/Leetcode_sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
