@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-arithmetic-subarrays](https://github.com/nani23-c/Leetcode_sol/tree/master/1752-arithmetic-subarrays) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/nani23-c/Leetcode_sol/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/nani23-c/Leetcode_sol/tree/master/1833-find-the-highest-altitude) |
+| [1839-decode-xored-array](https://github.com/nani23-c/Leetcode_sol/tree/master/1839-decode-xored-array) |
 | [1848-sum-of-unique-elements](https://github.com/nani23-c/Leetcode_sol/tree/master/1848-sum-of-unique-elements) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/nani23-c/Leetcode_sol/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/nani23-c/Leetcode_sol/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/nani23-c/Leetcode_sol/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/nani23-c/Leetcode_sol/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/nani23-c/Leetcode_sol/tree/master/0861-flipping-an-image) |
+| [1839-decode-xored-array](https://github.com/nani23-c/Leetcode_sol/tree/master/1839-decode-xored-array) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/nani23-c/Leetcode_sol/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/nani23-c/Leetcode_sol/tree/master/3193-maximum-strong-pair-xor-i) |
 # String
