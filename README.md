@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nani23-c/Leetcode_sol/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nani23-c/Leetcode_sol/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/nani23-c/Leetcode_sol/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/nani23-c/Leetcode_sol/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/nani23-c/Leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/nani23-c/Leetcode_sol/tree/master/0274-h-index) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/nani23-c/Leetcode_sol/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/nani23-c/Leetcode_sol/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/nani23-c/Leetcode_sol/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/nani23-c/Leetcode_sol/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/nani23-c/Leetcode_sol/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0268-missing-number) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/nani23-c/Leetcode_sol/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/nani23-c/Leetcode_sol/tree/master/0258-add-digits) |
 | [1585-the-kth-factor-of-n](https://github.com/nani23-c/Leetcode_sol/tree/master/1585-the-kth-factor-of-n) |
 | [2083-three-divisors](https://github.com/nani23-c/Leetcode_sol/tree/master/2083-three-divisors) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/nani23-c/Leetcode_sol/tree/master/0204-count-primes) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/nani23-c/Leetcode_sol/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2083-three-divisors](https://github.com/nani23-c/Leetcode_sol/tree/master/2083-three-divisors) |
 | [3199-distribute-candies-among-children-i](https://github.com/nani23-c/Leetcode_sol/tree/master/3199-distribute-candies-among-children-i) |
