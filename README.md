@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/nani23-c/Leetcode_sol/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/nani23-c/Leetcode_sol/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/nani23-c/Leetcode_sol/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/nani23-c/Leetcode_sol/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/nani23-c/Leetcode_sol/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/nani23-c/Leetcode_sol/tree/master/0069-sqrtx) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/nani23-c/Leetcode_sol/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/nani23-c/Leetcode_sol/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/nani23-c/Leetcode_sol/tree/master/0645-set-mismatch) |
