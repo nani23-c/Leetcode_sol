@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/nani23-c/Leetcode_sol/tree/master/0861-flipping-an-image) |
 | [1014-k-closest-points-to-origin](https://github.com/nani23-c/Leetcode_sol/tree/master/1014-k-closest-points-to-origin) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/nani23-c/Leetcode_sol/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nani23-c/Leetcode_sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nani23-c/Leetcode_sol/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/nani23-c/Leetcode_sol/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/nani23-c/Leetcode_sol/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/nani23-c/Leetcode_sol/tree/master/0645-set-mismatch) |
 | [1014-k-closest-points-to-origin](https://github.com/nani23-c/Leetcode_sol/tree/master/1014-k-closest-points-to-origin) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/nani23-c/Leetcode_sol/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nani23-c/Leetcode_sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nani23-c/Leetcode_sol/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/nani23-c/Leetcode_sol/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nani23-c/Leetcode_sol/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -51,12 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/nani23-c/Leetcode_sol/tree/master/0782-jewels-and-stones) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/nani23-c/Leetcode_sol/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/nani23-c/Leetcode_sol/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nani23-c/Leetcode_sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 # Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nani23-c/Leetcode_sol/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/nani23-c/Leetcode_sol/tree/master/0387-first-unique-character-in-a-string) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/nani23-c/Leetcode_sol/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nani23-c/Leetcode_sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 # Math
 |  |
 | ------- |
