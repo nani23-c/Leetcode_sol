@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/nani23-c/Leetcode_sol/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/nani23-c/Leetcode_sol/tree/master/0152-maximum-product-subarray) |
+| [0164-maximum-gap](https://github.com/nani23-c/Leetcode_sol/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nani23-c/Leetcode_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/nani23-c/Leetcode_sol/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nani23-c/Leetcode_sol/tree/master/0189-rotate-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/nani23-c/Leetcode_sol/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/nani23-c/Leetcode_sol/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/nani23-c/Leetcode_sol/tree/master/0088-merge-sorted-array) |
+| [0164-maximum-gap](https://github.com/nani23-c/Leetcode_sol/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/nani23-c/Leetcode_sol/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nani23-c/Leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0268-missing-number) |
@@ -483,3 +485,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3193-maximum-strong-pair-xor-i](https://github.com/nani23-c/Leetcode_sol/tree/master/3193-maximum-strong-pair-xor-i) |
+# Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/nani23-c/Leetcode_sol/tree/master/0164-maximum-gap) |
+# Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/nani23-c/Leetcode_sol/tree/master/0164-maximum-gap) |
