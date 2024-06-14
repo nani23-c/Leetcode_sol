@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/nani23-c/Leetcode_sol/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0268-missing-number) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/nani23-c/Leetcode_sol/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/nani23-c/Leetcode_sol/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/nani23-c/Leetcode_sol/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nani23-c/Leetcode_sol/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Greedy
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0268-missing-number) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/nani23-c/Leetcode_sol/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/nani23-c/Leetcode_sol/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nani23-c/Leetcode_sol/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
 |  |
