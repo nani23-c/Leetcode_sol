@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/nani23-c/Leetcode_sol/tree/master/2639-separate-the-digits-in-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/nani23-c/Leetcode_sol/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/nani23-c/Leetcode_sol/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/nani23-c/Leetcode_sol/tree/master/3193-maximum-strong-pair-xor-i) |
 # Greedy
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/nani23-c/Leetcode_sol/tree/master/1848-sum-of-unique-elements) |
 | [1904-second-largest-digit-in-a-string](https://github.com/nani23-c/Leetcode_sol/tree/master/1904-second-largest-digit-in-a-string) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/nani23-c/Leetcode_sol/tree/master/1925-count-nice-pairs-in-an-array) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/nani23-c/Leetcode_sol/tree/master/3193-maximum-strong-pair-xor-i) |
 # Counting
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/nani23-c/Leetcode_sol/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/nani23-c/Leetcode_sol/tree/master/0861-flipping-an-image) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/nani23-c/Leetcode_sol/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/nani23-c/Leetcode_sol/tree/master/3193-maximum-strong-pair-xor-i) |
 # String
 |  |
 | ------- |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nani23-c/Leetcode_sol/tree/master/0014-longest-common-prefix) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/nani23-c/Leetcode_sol/tree/master/3193-maximum-strong-pair-xor-i) |
 # Recursion
 |  |
 | ------- |
@@ -442,3 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/nani23-c/Leetcode_sol/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+# Sliding Window
+|  |
+| ------- |
+| [3193-maximum-strong-pair-xor-i](https://github.com/nani23-c/Leetcode_sol/tree/master/3193-maximum-strong-pair-xor-i) |
