@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/nani23-c/Leetcode_sol/tree/master/0292-nim-game) |
+| [0412-fizz-buzz](https://github.com/nani23-c/Leetcode_sol/tree/master/0412-fizz-buzz) |
 | [1014-k-closest-points-to-origin](https://github.com/nani23-c/Leetcode_sol/tree/master/1014-k-closest-points-to-origin) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/nani23-c/Leetcode_sol/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/nani23-c/Leetcode_sol/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/nani23-c/Leetcode_sol/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/nani23-c/Leetcode_sol/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nani23-c/Leetcode_sol/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/nani23-c/Leetcode_sol/tree/master/0412-fizz-buzz) |
 | [0551-student-attendance-record-i](https://github.com/nani23-c/Leetcode_sol/tree/master/0551-student-attendance-record-i) |
 | [0782-jewels-and-stones](https://github.com/nani23-c/Leetcode_sol/tree/master/0782-jewels-and-stones) |
 | [0851-goat-latin](https://github.com/nani23-c/Leetcode_sol/tree/master/0851-goat-latin) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/nani23-c/Leetcode_sol/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/nani23-c/Leetcode_sol/tree/master/0861-flipping-an-image) |
 | [2639-separate-the-digits-in-an-array](https://github.com/nani23-c/Leetcode_sol/tree/master/2639-separate-the-digits-in-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/nani23-c/Leetcode_sol/tree/master/2692-take-gifts-from-the-richest-pile) |
