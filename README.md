@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nani23-c/Leetcode_sol/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/nani23-c/Leetcode_sol/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/nani23-c/Leetcode_sol/tree/master/1657-find-the-winner-of-an-array-game) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/nani23-c/Leetcode_sol/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1848-sum-of-unique-elements](https://github.com/nani23-c/Leetcode_sol/tree/master/1848-sum-of-unique-elements) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/nani23-c/Leetcode_sol/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/nani23-c/Leetcode_sol/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/nani23-c/Leetcode_sol/tree/master/1014-k-closest-points-to-origin) |
 | [1585-the-kth-factor-of-n](https://github.com/nani23-c/Leetcode_sol/tree/master/1585-the-kth-factor-of-n) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/nani23-c/Leetcode_sol/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/nani23-c/Leetcode_sol/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/nani23-c/Leetcode_sol/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/nani23-c/Leetcode_sol/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2083-three-divisors](https://github.com/nani23-c/Leetcode_sol/tree/master/2083-three-divisors) |
@@ -433,3 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1217-relative-sort-array](https://github.com/nani23-c/Leetcode_sol/tree/master/1217-relative-sort-array) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/nani23-c/Leetcode_sol/tree/master/1925-count-nice-pairs-in-an-array) |
+# Prefix Sum
+|  |
+| ------- |
+| [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/nani23-c/Leetcode_sol/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
