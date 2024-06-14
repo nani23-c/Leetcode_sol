@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/nani23-c/Leetcode_sol/tree/master/0274-h-index) |
 | [1217-relative-sort-array](https://github.com/nani23-c/Leetcode_sol/tree/master/1217-relative-sort-array) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/nani23-c/Leetcode_sol/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/nani23-c/Leetcode_sol/tree/master/1925-count-nice-pairs-in-an-array) |
 # Prefix Sum
 |  |
