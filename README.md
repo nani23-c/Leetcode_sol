@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nani23-c/Leetcode_sol/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/nani23-c/Leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0268-missing-number) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/nani23-c/Leetcode_sol/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/nani23-c/Leetcode_sol/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/nani23-c/Leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0268-missing-number) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/nani23-c/Leetcode_sol/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/nani23-c/Leetcode_sol/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nani23-c/Leetcode_sol/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/nani23-c/Leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/nani23-c/Leetcode_sol/tree/master/0387-first-unique-character-in-a-string) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/nani23-c/Leetcode_sol/tree/master/1354-find-players-with-zero-or-one-losses) |
