@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/nani23-c/Leetcode_sol/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/nani23-c/Leetcode_sol/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/nani23-c/Leetcode_sol/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/nani23-c/Leetcode_sol/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/nani23-c/Leetcode_sol/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/nani23-c/Leetcode_sol/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nani23-c/Leetcode_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nani23-c/Leetcode_sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/nani23-c/Leetcode_sol/tree/master/0032-longest-valid-parentheses) |
+| [0072-edit-distance](https://github.com/nani23-c/Leetcode_sol/tree/master/0072-edit-distance) |
 | [0205-isomorphic-strings](https://github.com/nani23-c/Leetcode_sol/tree/master/0205-isomorphic-strings) |
 | [0459-repeated-substring-pattern](https://github.com/nani23-c/Leetcode_sol/tree/master/0459-repeated-substring-pattern) |
 | [1250-longest-common-subsequence](https://github.com/nani23-c/Leetcode_sol/tree/master/1250-longest-common-subsequence) |
