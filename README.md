@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/nani23-c/Leetcode_sol/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/nani23-c/Leetcode_sol/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/nani23-c/Leetcode_sol/tree/master/0088-merge-sorted-array) |
+| [0119-pascals-triangle-ii](https://github.com/nani23-c/Leetcode_sol/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/nani23-c/Leetcode_sol/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/nani23-c/Leetcode_sol/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nani23-c/Leetcode_sol/tree/master/0217-contains-duplicate) |
@@ -152,3 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/nani23-c/Leetcode_sol/tree/master/1014-k-closest-points-to-origin) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/nani23-c/Leetcode_sol/tree/master/0119-pascals-triangle-ii) |
