@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nani23-c/Leetcode_sol/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/nani23-c/Leetcode_sol/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/nani23-c/Leetcode_sol/tree/master/1657-find-the-winner-of-an-array-game) |
+| [1752-arithmetic-subarrays](https://github.com/nani23-c/Leetcode_sol/tree/master/1752-arithmetic-subarrays) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/nani23-c/Leetcode_sol/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1848-sum-of-unique-elements](https://github.com/nani23-c/Leetcode_sol/tree/master/1848-sum-of-unique-elements) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/nani23-c/Leetcode_sol/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nani23-c/Leetcode_sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nani23-c/Leetcode_sol/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/nani23-c/Leetcode_sol/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1752-arithmetic-subarrays](https://github.com/nani23-c/Leetcode_sol/tree/master/1752-arithmetic-subarrays) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/nani23-c/Leetcode_sol/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/nani23-c/Leetcode_sol/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nani23-c/Leetcode_sol/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/nani23-c/Leetcode_sol/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/nani23-c/Leetcode_sol/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nani23-c/Leetcode_sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1752-arithmetic-subarrays](https://github.com/nani23-c/Leetcode_sol/tree/master/1752-arithmetic-subarrays) |
 | [1848-sum-of-unique-elements](https://github.com/nani23-c/Leetcode_sol/tree/master/1848-sum-of-unique-elements) |
 | [1904-second-largest-digit-in-a-string](https://github.com/nani23-c/Leetcode_sol/tree/master/1904-second-largest-digit-in-a-string) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/nani23-c/Leetcode_sol/tree/master/1925-count-nice-pairs-in-an-array) |
