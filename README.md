@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/nani23-c/Leetcode_sol/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nani23-c/Leetcode_sol/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/nani23-c/Leetcode_sol/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nani23-c/Leetcode_sol/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/nani23-c/Leetcode_sol/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nani23-c/Leetcode_sol/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/nani23-c/Leetcode_sol/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nani23-c/Leetcode_sol/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -178,12 +180,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/nani23-c/Leetcode_sol/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/nani23-c/Leetcode_sol/tree/master/0069-sqrtx) |
+| [0098-validate-binary-search-tree](https://github.com/nani23-c/Leetcode_sol/tree/master/0098-validate-binary-search-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/nani23-c/Leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nani23-c/Leetcode_sol/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0792-binary-search](https://github.com/nani23-c/Leetcode_sol/tree/master/0792-binary-search) |
 # Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/nani23-c/Leetcode_sol/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nani23-c/Leetcode_sol/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/nani23-c/Leetcode_sol/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nani23-c/Leetcode_sol/tree/master/0111-minimum-depth-of-binary-tree) |
