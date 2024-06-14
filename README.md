@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/nani23-c/Leetcode_sol/tree/master/0861-flipping-an-image) |
 | [1014-k-closest-points-to-origin](https://github.com/nani23-c/Leetcode_sol/tree/master/1014-k-closest-points-to-origin) |
 | [1217-relative-sort-array](https://github.com/nani23-c/Leetcode_sol/tree/master/1217-relative-sort-array) |
+| [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/nani23-c/Leetcode_sol/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/nani23-c/Leetcode_sol/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nani23-c/Leetcode_sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nani23-c/Leetcode_sol/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
