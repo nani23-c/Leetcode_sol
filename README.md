@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/nani23-c/Leetcode_sol/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/nani23-c/Leetcode_sol/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/nani23-c/Leetcode_sol/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/nani23-c/Leetcode_sol/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/nani23-c/Leetcode_sol/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/nani23-c/Leetcode_sol/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/nani23-c/Leetcode_sol/tree/master/0073-set-matrix-zeroes) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/nani23-c/Leetcode_sol/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/nani23-c/Leetcode_sol/tree/master/0047-permutations-ii) |
 # Combinatorics
 |  |
 | ------- |
