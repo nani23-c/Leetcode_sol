@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/nani23-c/Leetcode_sol/tree/master/0387-first-unique-character-in-a-string) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/nani23-c/Leetcode_sol/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/nani23-c/Leetcode_sol/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 # Counting
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/nani23-c/Leetcode_sol/tree/master/0387-first-unique-character-in-a-string) |
 | [0851-goat-latin](https://github.com/nani23-c/Leetcode_sol/tree/master/0851-goat-latin) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/nani23-c/Leetcode_sol/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 # Queue
 |  |
 | ------- |
@@ -63,4 +65,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Enumeration
 |  |
 | ------- |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/nani23-c/Leetcode_sol/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2083-three-divisors](https://github.com/nani23-c/Leetcode_sol/tree/master/2083-three-divisors) |
