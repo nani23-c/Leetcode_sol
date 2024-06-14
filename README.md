@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/nani23-c/Leetcode_sol/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/nani23-c/Leetcode_sol/tree/master/0412-fizz-buzz) |
 | [1014-k-closest-points-to-origin](https://github.com/nani23-c/Leetcode_sol/tree/master/1014-k-closest-points-to-origin) |
+| [1585-the-kth-factor-of-n](https://github.com/nani23-c/Leetcode_sol/tree/master/1585-the-kth-factor-of-n) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/nani23-c/Leetcode_sol/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/nani23-c/Leetcode_sol/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2083-three-divisors](https://github.com/nani23-c/Leetcode_sol/tree/master/2083-three-divisors) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Number Theory
 |  |
 | ------- |
+| [1585-the-kth-factor-of-n](https://github.com/nani23-c/Leetcode_sol/tree/master/1585-the-kth-factor-of-n) |
 | [2083-three-divisors](https://github.com/nani23-c/Leetcode_sol/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/nani23-c/Leetcode_sol/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/nani23-c/Leetcode_sol/tree/master/2491-smallest-even-multiple) |
