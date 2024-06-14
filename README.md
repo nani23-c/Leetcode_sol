@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nani23-c/Leetcode_sol/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/nani23-c/Leetcode_sol/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/nani23-c/Leetcode_sol/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/nani23-c/Leetcode_sol/tree/master/0383-ransom-note) |
@@ -221,3 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/nani23-c/Leetcode_sol/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/nani23-c/Leetcode_sol/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/nani23-c/Leetcode_sol/tree/master/1908-recyclable-and-low-fat-products) |
+# Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nani23-c/Leetcode_sol/tree/master/0020-valid-parentheses) |
