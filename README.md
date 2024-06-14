@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nani23-c/Leetcode_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/nani23-c/Leetcode_sol/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nani23-c/Leetcode_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/nani23-c/Leetcode_sol/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nani23-c/Leetcode_sol/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/nani23-c/Leetcode_sol/tree/master/0217-contains-duplicate) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/nani23-c/Leetcode_sol/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/nani23-c/Leetcode_sol/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/nani23-c/Leetcode_sol/tree/master/0098-validate-binary-search-tree) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nani23-c/Leetcode_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nani23-c/Leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nani23-c/Leetcode_sol/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nani23-c/Leetcode_sol/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nani23-c/Leetcode_sol/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nani23-c/Leetcode_sol/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/nani23-c/Leetcode_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/nani23-c/Leetcode_sol/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/nani23-c/Leetcode_sol/tree/master/0344-reverse-string) |
