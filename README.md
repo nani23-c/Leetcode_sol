@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/nani23-c/Leetcode_sol/tree/master/1297-maximum-number-of-balloons) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/nani23-c/Leetcode_sol/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1904-second-largest-digit-in-a-string](https://github.com/nani23-c/Leetcode_sol/tree/master/1904-second-largest-digit-in-a-string) |
+| [2401-count-asterisks](https://github.com/nani23-c/Leetcode_sol/tree/master/2401-count-asterisks) |
 # Queue
 |  |
 | ------- |
