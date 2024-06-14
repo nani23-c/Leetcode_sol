@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nani23-c/Leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/nani23-c/Leetcode_sol/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/nani23-c/Leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/nani23-c/Leetcode_sol/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/nani23-c/Leetcode_sol/tree/master/0605-can-place-flowers) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/nani23-c/Leetcode_sol/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nani23-c/Leetcode_sol/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0279-perfect-squares](https://github.com/nani23-c/Leetcode_sol/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/nani23-c/Leetcode_sol/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nani23-c/Leetcode_sol/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [2121-find-if-path-exists-in-graph](https://github.com/nani23-c/Leetcode_sol/tree/master/2121-find-if-path-exists-in-graph) |
 # Binary Search Tree
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nani23-c/Leetcode_sol/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/nani23-c/Leetcode_sol/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/nani23-c/Leetcode_sol/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/nani23-c/Leetcode_sol/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/nani23-c/Leetcode_sol/tree/master/0338-counting-bits) |
 | [1250-longest-common-subsequence](https://github.com/nani23-c/Leetcode_sol/tree/master/1250-longest-common-subsequence) |
 # Matrix
