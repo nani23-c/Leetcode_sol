@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/nani23-c/Leetcode_sol/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/nani23-c/Leetcode_sol/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/nani23-c/Leetcode_sol/tree/master/0387-first-unique-character-in-a-string) |
+| [0551-student-attendance-record-i](https://github.com/nani23-c/Leetcode_sol/tree/master/0551-student-attendance-record-i) |
 | [0782-jewels-and-stones](https://github.com/nani23-c/Leetcode_sol/tree/master/0782-jewels-and-stones) |
 | [0851-goat-latin](https://github.com/nani23-c/Leetcode_sol/tree/master/0851-goat-latin) |
 | [1297-maximum-number-of-balloons](https://github.com/nani23-c/Leetcode_sol/tree/master/1297-maximum-number-of-balloons) |
