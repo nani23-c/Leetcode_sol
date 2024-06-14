@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/nani23-c/Leetcode_sol/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/nani23-c/Leetcode_sol/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/nani23-c/Leetcode_sol/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/nani23-c/Leetcode_sol/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/nani23-c/Leetcode_sol/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/nani23-c/Leetcode_sol/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/nani23-c/Leetcode_sol/tree/master/0119-pascals-triangle-ii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/nani23-c/Leetcode_sol/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/nani23-c/Leetcode_sol/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/nani23-c/Leetcode_sol/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/nani23-c/Leetcode_sol/tree/master/0098-validate-binary-search-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/nani23-c/Leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nani23-c/Leetcode_sol/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/nani23-c/Leetcode_sol/tree/master/0074-search-a-2d-matrix) |
 | [0861-flipping-an-image](https://github.com/nani23-c/Leetcode_sol/tree/master/0861-flipping-an-image) |
 # Simulation
 |  |
