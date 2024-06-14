@@ -383,4 +383,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Graph
 |  |
 | ------- |
+| [1916-find-center-of-star-graph](https://github.com/nani23-c/Leetcode_sol/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/nani23-c/Leetcode_sol/tree/master/2121-find-if-path-exists-in-graph) |
