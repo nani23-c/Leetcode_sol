@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/nani23-c/Leetcode_sol/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nani23-c/Leetcode_sol/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/nani23-c/Leetcode_sol/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/nani23-c/Leetcode_sol/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/nani23-c/Leetcode_sol/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/nani23-c/Leetcode_sol/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/nani23-c/Leetcode_sol/tree/master/0088-merge-sorted-array) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nani23-c/Leetcode_sol/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/nani23-c/Leetcode_sol/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/nani23-c/Leetcode_sol/tree/master/0169-majority-element) |
 | [1014-k-closest-points-to-origin](https://github.com/nani23-c/Leetcode_sol/tree/master/1014-k-closest-points-to-origin) |
 # Geometry
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nani23-c/Leetcode_sol/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/nani23-c/Leetcode_sol/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/nani23-c/Leetcode_sol/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/nani23-c/Leetcode_sol/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/nani23-c/Leetcode_sol/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/nani23-c/Leetcode_sol/tree/master/0119-pascals-triangle-ii) |
