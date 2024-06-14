@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/nani23-c/Leetcode_sol/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/nani23-c/Leetcode_sol/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/nani23-c/Leetcode_sol/tree/master/2491-smallest-even-multiple) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/nani23-c/Leetcode_sol/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nani23-c/Leetcode_sol/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3199-distribute-candies-among-children-i](https://github.com/nani23-c/Leetcode_sol/tree/master/3199-distribute-candies-among-children-i) |
 # Binary Search
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/nani23-c/Leetcode_sol/tree/master/1014-k-closest-points-to-origin) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/nani23-c/Leetcode_sol/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 # Heap (Priority Queue)
 |  |
 | ------- |
