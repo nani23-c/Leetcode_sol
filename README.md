@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nani23-c/Leetcode_sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nani23-c/Leetcode_sol/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/nani23-c/Leetcode_sol/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1657-find-the-winner-of-an-array-game](https://github.com/nani23-c/Leetcode_sol/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1848-sum-of-unique-elements](https://github.com/nani23-c/Leetcode_sol/tree/master/1848-sum-of-unique-elements) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/nani23-c/Leetcode_sol/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nani23-c/Leetcode_sol/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/nani23-c/Leetcode_sol/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/nani23-c/Leetcode_sol/tree/master/0412-fizz-buzz) |
 | [0861-flipping-an-image](https://github.com/nani23-c/Leetcode_sol/tree/master/0861-flipping-an-image) |
+| [1657-find-the-winner-of-an-array-game](https://github.com/nani23-c/Leetcode_sol/tree/master/1657-find-the-winner-of-an-array-game) |
 | [2639-separate-the-digits-in-an-array](https://github.com/nani23-c/Leetcode_sol/tree/master/2639-separate-the-digits-in-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/nani23-c/Leetcode_sol/tree/master/2692-take-gifts-from-the-richest-pile) |
 # Brainteaser
