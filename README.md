@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/nani23-c/Leetcode_sol/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/nani23-c/Leetcode_sol/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0268-missing-number) |
