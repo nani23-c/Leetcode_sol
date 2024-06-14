@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/nani23-c/Leetcode_sol/tree/master/0372-super-pow) |
 | [0412-fizz-buzz](https://github.com/nani23-c/Leetcode_sol/tree/master/0412-fizz-buzz) |
 | [1014-k-closest-points-to-origin](https://github.com/nani23-c/Leetcode_sol/tree/master/1014-k-closest-points-to-origin) |
+| [1236-n-th-tribonacci-number](https://github.com/nani23-c/Leetcode_sol/tree/master/1236-n-th-tribonacci-number) |
 | [1585-the-kth-factor-of-n](https://github.com/nani23-c/Leetcode_sol/tree/master/1585-the-kth-factor-of-n) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/nani23-c/Leetcode_sol/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/nani23-c/Leetcode_sol/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/nani23-c/Leetcode_sol/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/nani23-c/Leetcode_sol/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/nani23-c/Leetcode_sol/tree/master/0338-counting-bits) |
+| [1236-n-th-tribonacci-number](https://github.com/nani23-c/Leetcode_sol/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/nani23-c/Leetcode_sol/tree/master/1250-longest-common-subsequence) |
 # Matrix
 |  |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nani23-c/Leetcode_sol/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/nani23-c/Leetcode_sol/tree/master/1236-n-th-tribonacci-number) |
 # Linked List
 |  |
 | ------- |
