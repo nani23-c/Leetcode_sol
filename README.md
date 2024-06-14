@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nani23-c/Leetcode_sol/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nani23-c/Leetcode_sol/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nani23-c/Leetcode_sol/tree/master/0141-linked-list-cycle) |
+| [0165-compare-version-numbers](https://github.com/nani23-c/Leetcode_sol/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nani23-c/Leetcode_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/nani23-c/Leetcode_sol/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0287-find-the-duplicate-number) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nani23-c/Leetcode_sol/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/nani23-c/Leetcode_sol/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/nani23-c/Leetcode_sol/tree/master/0072-edit-distance) |
+| [0165-compare-version-numbers](https://github.com/nani23-c/Leetcode_sol/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/nani23-c/Leetcode_sol/tree/master/0205-isomorphic-strings) |
 | [0459-repeated-substring-pattern](https://github.com/nani23-c/Leetcode_sol/tree/master/0459-repeated-substring-pattern) |
 | [1250-longest-common-subsequence](https://github.com/nani23-c/Leetcode_sol/tree/master/1250-longest-common-subsequence) |
