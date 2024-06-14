@@ -93,12 +93,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nani23-c/Leetcode_sol/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/nani23-c/Leetcode_sol/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nani23-c/Leetcode_sol/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nani23-c/Leetcode_sol/tree/master/0530-minimum-absolute-difference-in-bst) |
 # Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nani23-c/Leetcode_sol/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/nani23-c/Leetcode_sol/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nani23-c/Leetcode_sol/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nani23-c/Leetcode_sol/tree/master/0530-minimum-absolute-difference-in-bst) |
 # Breadth-First Search
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nani23-c/Leetcode_sol/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/nani23-c/Leetcode_sol/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nani23-c/Leetcode_sol/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nani23-c/Leetcode_sol/tree/master/0530-minimum-absolute-difference-in-bst) |
 # Two Pointers
