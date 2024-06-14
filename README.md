@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/nani23-c/Leetcode_sol/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/nani23-c/Leetcode_sol/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/nani23-c/Leetcode_sol/tree/master/0645-set-mismatch) |
+| [0648-replace-words](https://github.com/nani23-c/Leetcode_sol/tree/master/0648-replace-words) |
 | [0792-binary-search](https://github.com/nani23-c/Leetcode_sol/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/nani23-c/Leetcode_sol/tree/master/0861-flipping-an-image) |
 | [1014-k-closest-points-to-origin](https://github.com/nani23-c/Leetcode_sol/tree/master/1014-k-closest-points-to-origin) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/nani23-c/Leetcode_sol/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nani23-c/Leetcode_sol/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/nani23-c/Leetcode_sol/tree/master/0645-set-mismatch) |
+| [0648-replace-words](https://github.com/nani23-c/Leetcode_sol/tree/master/0648-replace-words) |
 | [0782-jewels-and-stones](https://github.com/nani23-c/Leetcode_sol/tree/master/0782-jewels-and-stones) |
 | [1217-relative-sort-array](https://github.com/nani23-c/Leetcode_sol/tree/master/1217-relative-sort-array) |
 | [1297-maximum-number-of-balloons](https://github.com/nani23-c/Leetcode_sol/tree/master/1297-maximum-number-of-balloons) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/nani23-c/Leetcode_sol/tree/master/0205-isomorphic-strings) |
 | [0415-add-strings](https://github.com/nani23-c/Leetcode_sol/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/nani23-c/Leetcode_sol/tree/master/0459-repeated-substring-pattern) |
+| [0648-replace-words](https://github.com/nani23-c/Leetcode_sol/tree/master/0648-replace-words) |
 | [1250-longest-common-subsequence](https://github.com/nani23-c/Leetcode_sol/tree/master/1250-longest-common-subsequence) |
 | [3019-furthest-point-from-origin](https://github.com/nani23-c/Leetcode_sol/tree/master/3019-furthest-point-from-origin) |
 | [3207-make-three-strings-equal](https://github.com/nani23-c/Leetcode_sol/tree/master/3207-make-three-strings-equal) |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nani23-c/Leetcode_sol/tree/master/0014-longest-common-prefix) |
+| [0648-replace-words](https://github.com/nani23-c/Leetcode_sol/tree/master/0648-replace-words) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/nani23-c/Leetcode_sol/tree/master/3193-maximum-strong-pair-xor-i) |
 # Recursion
 |  |
