@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/nani23-c/Leetcode_sol/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/nani23-c/Leetcode_sol/tree/master/0292-nim-game) |
 | [1014-k-closest-points-to-origin](https://github.com/nani23-c/Leetcode_sol/tree/master/1014-k-closest-points-to-origin) |
 | [2083-three-divisors](https://github.com/nani23-c/Leetcode_sol/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/nani23-c/Leetcode_sol/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -172,3 +173,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/nani23-c/Leetcode_sol/tree/master/0861-flipping-an-image) |
+# Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/nani23-c/Leetcode_sol/tree/master/0292-nim-game) |
+# Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/nani23-c/Leetcode_sol/tree/master/0292-nim-game) |
