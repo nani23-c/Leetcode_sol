@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/nani23-c/Leetcode_sol/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/nani23-c/Leetcode_sol/tree/master/2491-smallest-even-multiple) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/nani23-c/Leetcode_sol/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3199-distribute-candies-among-children-i](https://github.com/nani23-c/Leetcode_sol/tree/master/3199-distribute-candies-among-children-i) |
 # Binary Search
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/nani23-c/Leetcode_sol/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2083-three-divisors](https://github.com/nani23-c/Leetcode_sol/tree/master/2083-three-divisors) |
+| [3199-distribute-candies-among-children-i](https://github.com/nani23-c/Leetcode_sol/tree/master/3199-distribute-candies-among-children-i) |
 # Union Find
 |  |
 | ------- |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/nani23-c/Leetcode_sol/tree/master/0062-unique-paths) |
+| [3199-distribute-candies-among-children-i](https://github.com/nani23-c/Leetcode_sol/tree/master/3199-distribute-candies-among-children-i) |
 # Graph
 |  |
 | ------- |
