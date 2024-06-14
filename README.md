@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/nani23-c/Leetcode_sol/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/nani23-c/Leetcode_sol/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/nani23-c/Leetcode_sol/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nani23-c/Leetcode_sol/tree/master/0217-contains-duplicate) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/nani23-c/Leetcode_sol/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nani23-c/Leetcode_sol/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nani23-c/Leetcode_sol/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0268-missing-number) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/nani23-c/Leetcode_sol/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/nani23-c/Leetcode_sol/tree/master/0344-reverse-string) |
 # Divide and Conquer
 |  |
