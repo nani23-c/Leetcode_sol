@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/nani23-c/Leetcode_sol/tree/master/0292-nim-game) |
 | [0372-super-pow](https://github.com/nani23-c/Leetcode_sol/tree/master/0372-super-pow) |
 | [0412-fizz-buzz](https://github.com/nani23-c/Leetcode_sol/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/nani23-c/Leetcode_sol/tree/master/0415-add-strings) |
 | [1014-k-closest-points-to-origin](https://github.com/nani23-c/Leetcode_sol/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/nani23-c/Leetcode_sol/tree/master/1236-n-th-tribonacci-number) |
 | [1585-the-kth-factor-of-n](https://github.com/nani23-c/Leetcode_sol/tree/master/1585-the-kth-factor-of-n) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/nani23-c/Leetcode_sol/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/nani23-c/Leetcode_sol/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/nani23-c/Leetcode_sol/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/nani23-c/Leetcode_sol/tree/master/0415-add-strings) |
 | [0861-flipping-an-image](https://github.com/nani23-c/Leetcode_sol/tree/master/0861-flipping-an-image) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/nani23-c/Leetcode_sol/tree/master/1657-find-the-winner-of-an-array-game) |
 | [2639-separate-the-digits-in-an-array](https://github.com/nani23-c/Leetcode_sol/tree/master/2639-separate-the-digits-in-an-array) |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/nani23-c/Leetcode_sol/tree/master/0072-edit-distance) |
 | [0165-compare-version-numbers](https://github.com/nani23-c/Leetcode_sol/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/nani23-c/Leetcode_sol/tree/master/0205-isomorphic-strings) |
+| [0415-add-strings](https://github.com/nani23-c/Leetcode_sol/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/nani23-c/Leetcode_sol/tree/master/0459-repeated-substring-pattern) |
 | [1250-longest-common-subsequence](https://github.com/nani23-c/Leetcode_sol/tree/master/1250-longest-common-subsequence) |
 | [3019-furthest-point-from-origin](https://github.com/nani23-c/Leetcode_sol/tree/master/3019-furthest-point-from-origin) |
