@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/nani23-c/Leetcode_sol/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/nani23-c/Leetcode_sol/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/nani23-c/Leetcode_sol/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/nani23-c/Leetcode_sol/tree/master/0169-majority-element) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/nani23-c/Leetcode_sol/tree/master/0035-search-insert-position) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nani23-c/Leetcode_sol/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0792-binary-search](https://github.com/nani23-c/Leetcode_sol/tree/master/0792-binary-search) |
 # Binary Tree
