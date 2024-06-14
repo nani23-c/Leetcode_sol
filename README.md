@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nani23-c/Leetcode_sol/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/nani23-c/Leetcode_sol/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/nani23-c/Leetcode_sol/tree/master/1657-find-the-winner-of-an-array-game) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/nani23-c/Leetcode_sol/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1752-arithmetic-subarrays](https://github.com/nani23-c/Leetcode_sol/tree/master/1752-arithmetic-subarrays) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/nani23-c/Leetcode_sol/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1848-sum-of-unique-elements](https://github.com/nani23-c/Leetcode_sol/tree/master/1848-sum-of-unique-elements) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/nani23-c/Leetcode_sol/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nani23-c/Leetcode_sol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0605-can-place-flowers](https://github.com/nani23-c/Leetcode_sol/tree/master/0605-can-place-flowers) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/nani23-c/Leetcode_sol/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/nani23-c/Leetcode_sol/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/nani23-c/Leetcode_sol/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nani23-c/Leetcode_sol/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nani23-c/Leetcode_sol/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nani23-c/Leetcode_sol/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/nani23-c/Leetcode_sol/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/nani23-c/Leetcode_sol/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1752-arithmetic-subarrays](https://github.com/nani23-c/Leetcode_sol/tree/master/1752-arithmetic-subarrays) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/nani23-c/Leetcode_sol/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/nani23-c/Leetcode_sol/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/nani23-c/Leetcode_sol/tree/master/1014-k-closest-points-to-origin) |
 | [1585-the-kth-factor-of-n](https://github.com/nani23-c/Leetcode_sol/tree/master/1585-the-kth-factor-of-n) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/nani23-c/Leetcode_sol/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/nani23-c/Leetcode_sol/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/nani23-c/Leetcode_sol/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/nani23-c/Leetcode_sol/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/nani23-c/Leetcode_sol/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -376,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/nani23-c/Leetcode_sol/tree/master/0292-nim-game) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/nani23-c/Leetcode_sol/tree/master/1683-maximum-number-of-coins-you-can-get) |
 # Database
 |  |
 | ------- |
