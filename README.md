@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/nani23-c/Leetcode_sol/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/nani23-c/Leetcode_sol/tree/master/0792-binary-search) |
+| [0861-flipping-an-image](https://github.com/nani23-c/Leetcode_sol/tree/master/0861-flipping-an-image) |
 | [1014-k-closest-points-to-origin](https://github.com/nani23-c/Leetcode_sol/tree/master/1014-k-closest-points-to-origin) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/nani23-c/Leetcode_sol/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/nani23-c/Leetcode_sol/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/nani23-c/Leetcode_sol/tree/master/0645-set-mismatch) |
+| [0861-flipping-an-image](https://github.com/nani23-c/Leetcode_sol/tree/master/0861-flipping-an-image) |
 # String
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nani23-c/Leetcode_sol/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/nani23-c/Leetcode_sol/tree/master/0344-reverse-string) |
+| [0861-flipping-an-image](https://github.com/nani23-c/Leetcode_sol/tree/master/0861-flipping-an-image) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -161,3 +164,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/nani23-c/Leetcode_sol/tree/master/0119-pascals-triangle-ii) |
+# Matrix
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/nani23-c/Leetcode_sol/tree/master/0861-flipping-an-image) |
+# Simulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/nani23-c/Leetcode_sol/tree/master/0861-flipping-an-image) |
