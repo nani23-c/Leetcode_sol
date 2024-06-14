@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/nani23-c/Leetcode_sol/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/nani23-c/Leetcode_sol/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/nani23-c/Leetcode_sol/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/nani23-c/Leetcode_sol/tree/master/2692-take-gifts-from-the-richest-pile) |
 # Greedy
 |  |
 | ------- |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/nani23-c/Leetcode_sol/tree/master/1014-k-closest-points-to-origin) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/nani23-c/Leetcode_sol/tree/master/2692-take-gifts-from-the-richest-pile) |
 # Quickselect
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/nani23-c/Leetcode_sol/tree/master/0861-flipping-an-image) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/nani23-c/Leetcode_sol/tree/master/2692-take-gifts-from-the-richest-pile) |
 # Brainteaser
 |  |
 | ------- |
