@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/nani23-c/Leetcode_sol/tree/master/0372-super-pow) |
 | [0412-fizz-buzz](https://github.com/nani23-c/Leetcode_sol/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/nani23-c/Leetcode_sol/tree/master/0415-add-strings) |
+| [0633-sum-of-square-numbers](https://github.com/nani23-c/Leetcode_sol/tree/master/0633-sum-of-square-numbers) |
 | [1014-k-closest-points-to-origin](https://github.com/nani23-c/Leetcode_sol/tree/master/1014-k-closest-points-to-origin) |
 | [1236-n-th-tribonacci-number](https://github.com/nani23-c/Leetcode_sol/tree/master/1236-n-th-tribonacci-number) |
 | [1585-the-kth-factor-of-n](https://github.com/nani23-c/Leetcode_sol/tree/master/1585-the-kth-factor-of-n) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nani23-c/Leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nani23-c/Leetcode_sol/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0633-sum-of-square-numbers](https://github.com/nani23-c/Leetcode_sol/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/nani23-c/Leetcode_sol/tree/master/0792-binary-search) |
 # Binary Tree
 |  |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/nani23-c/Leetcode_sol/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/nani23-c/Leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/nani23-c/Leetcode_sol/tree/master/0633-sum-of-square-numbers) |
 | [0861-flipping-an-image](https://github.com/nani23-c/Leetcode_sol/tree/master/0861-flipping-an-image) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/nani23-c/Leetcode_sol/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 # Divide and Conquer
