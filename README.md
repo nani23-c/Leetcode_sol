@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/nani23-c/Leetcode_sol/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/nani23-c/Leetcode_sol/tree/master/0648-replace-words) |
 | [0792-binary-search](https://github.com/nani23-c/Leetcode_sol/tree/master/0792-binary-search) |
+| [0853-most-profit-assigning-work](https://github.com/nani23-c/Leetcode_sol/tree/master/0853-most-profit-assigning-work) |
 | [0861-flipping-an-image](https://github.com/nani23-c/Leetcode_sol/tree/master/0861-flipping-an-image) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/nani23-c/Leetcode_sol/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1014-k-closest-points-to-origin](https://github.com/nani23-c/Leetcode_sol/tree/master/1014-k-closest-points-to-origin) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/nani23-c/Leetcode_sol/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nani23-c/Leetcode_sol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0605-can-place-flowers](https://github.com/nani23-c/Leetcode_sol/tree/master/0605-can-place-flowers) |
+| [0853-most-profit-assigning-work](https://github.com/nani23-c/Leetcode_sol/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/nani23-c/Leetcode_sol/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/nani23-c/Leetcode_sol/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/nani23-c/Leetcode_sol/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/nani23-c/Leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/nani23-c/Leetcode_sol/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/nani23-c/Leetcode_sol/tree/master/0645-set-mismatch) |
+| [0853-most-profit-assigning-work](https://github.com/nani23-c/Leetcode_sol/tree/master/0853-most-profit-assigning-work) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/nani23-c/Leetcode_sol/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1014-k-closest-points-to-origin](https://github.com/nani23-c/Leetcode_sol/tree/master/1014-k-closest-points-to-origin) |
 | [1137-height-checker](https://github.com/nani23-c/Leetcode_sol/tree/master/1137-height-checker) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/nani23-c/Leetcode_sol/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0633-sum-of-square-numbers](https://github.com/nani23-c/Leetcode_sol/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/nani23-c/Leetcode_sol/tree/master/0792-binary-search) |
+| [0853-most-profit-assigning-work](https://github.com/nani23-c/Leetcode_sol/tree/master/0853-most-profit-assigning-work) |
 # Binary Tree
 |  |
 | ------- |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/nani23-c/Leetcode_sol/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/nani23-c/Leetcode_sol/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/nani23-c/Leetcode_sol/tree/master/0633-sum-of-square-numbers) |
+| [0853-most-profit-assigning-work](https://github.com/nani23-c/Leetcode_sol/tree/master/0853-most-profit-assigning-work) |
 | [0861-flipping-an-image](https://github.com/nani23-c/Leetcode_sol/tree/master/0861-flipping-an-image) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/nani23-c/Leetcode_sol/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 # Divide and Conquer
