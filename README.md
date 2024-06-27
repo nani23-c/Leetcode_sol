@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nani23-c/Leetcode_sol/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/nani23-c/Leetcode_sol/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nani23-c/Leetcode_sol/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/nani23-c/Leetcode_sol/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/nani23-c/Leetcode_sol/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nani23-c/Leetcode_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/nani23-c/Leetcode_sol/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/nani23-c/Leetcode_sol/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/nani23-c/Leetcode_sol/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nani23-c/Leetcode_sol/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/nani23-c/Leetcode_sol/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/nani23-c/Leetcode_sol/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/nani23-c/Leetcode_sol/tree/master/0204-count-primes) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/nani23-c/Leetcode_sol/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nani23-c/Leetcode_sol/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nani23-c/Leetcode_sol/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nani23-c/Leetcode_sol/tree/master/0150-evaluate-reverse-polish-notation) |
 # Memoization
 |  |
 | ------- |
