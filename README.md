@@ -581,9 +581,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0202-happy-number) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nani23-c/Leetcode_sol/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nani23-c/Leetcode_sol/tree/master/2271-rearrange-array-elements-by-sign) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0202-happy-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
