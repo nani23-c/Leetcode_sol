@@ -568,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/nani23-c/Leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2379-maximum-total-importance-of-roads](https://github.com/nani23-c/Leetcode_sol/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
 |  |
@@ -576,12 +577,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/nani23-c/Leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/nani23-c/Leetcode_sol/tree/master/1293-three-consecutive-odds) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nani23-c/Leetcode_sol/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0202-happy-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/nani23-c/Leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nani23-c/Leetcode_sol/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -591,8 +594,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0202-happy-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/nani23-c/Leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0202-happy-number) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/nani23-c/Leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
