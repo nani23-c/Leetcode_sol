@@ -590,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nani23-c/Leetcode_sol/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2645-pass-the-pillow](https://github.com/nani23-c/Leetcode_sol/tree/master/2645-pass-the-pillow) |
 ## Hash Table
 |  |
 | ------- |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0202-happy-number) |
+| [2645-pass-the-pillow](https://github.com/nani23-c/Leetcode_sol/tree/master/2645-pass-the-pillow) |
 ## Binary Search
 |  |
 | ------- |
