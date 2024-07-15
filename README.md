@@ -585,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/nani23-c/Leetcode_sol/tree/master/1720-crawler-log-folder) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nani23-c/Leetcode_sol/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nani23-c/Leetcode_sol/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/nani23-c/Leetcode_sol/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nani23-c/Leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/nani23-c/Leetcode_sol/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Math
 |  |
 | ------- |
@@ -633,4 +635,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nani23-c/Leetcode_sol/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/nani23-c/Leetcode_sol/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nani23-c/Leetcode_sol/tree/master/1818-maximum-score-from-removing-substrings) |
+## Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/nani23-c/Leetcode_sol/tree/master/2306-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/nani23-c/Leetcode_sol/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
