@@ -565,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/nani23-c/Leetcode_sol/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/nani23-c/Leetcode_sol/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2379-maximum-total-importance-of-roads](https://github.com/nani23-c/Leetcode_sol/tree/master/2379-maximum-total-importance-of-roads) |
+| [2650-split-with-minimum-sum](https://github.com/nani23-c/Leetcode_sol/tree/master/2650-split-with-minimum-sum) |
 ## Graph
 |  |
 | ------- |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/nani23-c/Leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/nani23-c/Leetcode_sol/tree/master/1019-squares-of-a-sorted-array) |
 | [2379-maximum-total-importance-of-roads](https://github.com/nani23-c/Leetcode_sol/tree/master/2379-maximum-total-importance-of-roads) |
+| [2650-split-with-minimum-sum](https://github.com/nani23-c/Leetcode_sol/tree/master/2650-split-with-minimum-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nani23-c/Leetcode_sol/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1642-water-bottles](https://github.com/nani23-c/Leetcode_sol/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/nani23-c/Leetcode_sol/tree/master/2645-pass-the-pillow) |
+| [2650-split-with-minimum-sum](https://github.com/nani23-c/Leetcode_sol/tree/master/2650-split-with-minimum-sum) |
 ## Binary Search
 |  |
 | ------- |
