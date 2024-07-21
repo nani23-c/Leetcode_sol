@@ -659,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/nani23-c/Leetcode_sol/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/nani23-c/Leetcode_sol/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
