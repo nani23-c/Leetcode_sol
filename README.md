@@ -569,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/nani23-c/Leetcode_sol/tree/master/0207-course-schedule) |
 | [2379-maximum-total-importance-of-roads](https://github.com/nani23-c/Leetcode_sol/tree/master/2379-maximum-total-importance-of-roads) |
 ## Sorting
 |  |
@@ -665,4 +666,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/nani23-c/Leetcode_sol/tree/master/0231-power-of-two) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/nani23-c/Leetcode_sol/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/nani23-c/Leetcode_sol/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/nani23-c/Leetcode_sol/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
