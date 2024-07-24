@@ -597,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/nani23-c/Leetcode_sol/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/nani23-c/Leetcode_sol/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/nani23-c/Leetcode_sol/tree/master/1293-three-consecutive-odds) |
+| [1370-count-number-of-nice-subarrays](https://github.com/nani23-c/Leetcode_sol/tree/master/1370-count-number-of-nice-subarrays) |
 | [1720-crawler-log-folder](https://github.com/nani23-c/Leetcode_sol/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/nani23-c/Leetcode_sol/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/nani23-c/Leetcode_sol/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/nani23-c/Leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nani23-c/Leetcode_sol/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nani23-c/Leetcode_sol/tree/master/0560-subarray-sum-equals-k) |
+| [1370-count-number-of-nice-subarrays](https://github.com/nani23-c/Leetcode_sol/tree/master/1370-count-number-of-nice-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/nani23-c/Leetcode_sol/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/nani23-c/Leetcode_sol/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Math
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/nani23-c/Leetcode_sol/tree/master/0231-power-of-two) |
 | [1014-k-closest-points-to-origin](https://github.com/nani23-c/Leetcode_sol/tree/master/1014-k-closest-points-to-origin) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/nani23-c/Leetcode_sol/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [1370-count-number-of-nice-subarrays](https://github.com/nani23-c/Leetcode_sol/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nani23-c/Leetcode_sol/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1642-water-bottles](https://github.com/nani23-c/Leetcode_sol/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/nani23-c/Leetcode_sol/tree/master/2645-pass-the-pillow) |
@@ -709,4 +712,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/nani23-c/Leetcode_sol/tree/master/0560-subarray-sum-equals-k) |
+## Sliding Window
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/nani23-c/Leetcode_sol/tree/master/1370-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
