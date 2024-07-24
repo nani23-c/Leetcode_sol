@@ -565,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/nani23-c/Leetcode_sol/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/nani23-c/Leetcode_sol/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2379-maximum-total-importance-of-roads](https://github.com/nani23-c/Leetcode_sol/tree/master/2379-maximum-total-importance-of-roads) |
+| [2487-optimal-partition-of-string](https://github.com/nani23-c/Leetcode_sol/tree/master/2487-optimal-partition-of-string) |
 | [2650-split-with-minimum-sum](https://github.com/nani23-c/Leetcode_sol/tree/master/2650-split-with-minimum-sum) |
 ## Graph
 |  |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/nani23-c/Leetcode_sol/tree/master/1370-count-number-of-nice-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/nani23-c/Leetcode_sol/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/nani23-c/Leetcode_sol/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2487-optimal-partition-of-string](https://github.com/nani23-c/Leetcode_sol/tree/master/2487-optimal-partition-of-string) |
 ## Math
 |  |
 | ------- |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/nani23-c/Leetcode_sol/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nani23-c/Leetcode_sol/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nani23-c/Leetcode_sol/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2487-optimal-partition-of-string](https://github.com/nani23-c/Leetcode_sol/tree/master/2487-optimal-partition-of-string) |
 ## Stack
 |  |
 | ------- |
