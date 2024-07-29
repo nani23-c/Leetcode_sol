@@ -600,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/nani23-c/Leetcode_sol/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/nani23-c/Leetcode_sol/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nani23-c/Leetcode_sol/tree/master/1370-count-number-of-nice-subarrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/nani23-c/Leetcode_sol/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1720-crawler-log-folder](https://github.com/nani23-c/Leetcode_sol/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/nani23-c/Leetcode_sol/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/nani23-c/Leetcode_sol/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
@@ -740,4 +741,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/nani23-c/Leetcode_sol/tree/master/0118-pascals-triangle) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/nani23-c/Leetcode_sol/tree/master/1402-count-square-submatrices-with-all-ones) |
+## Matrix
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/nani23-c/Leetcode_sol/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
