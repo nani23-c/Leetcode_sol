@@ -639,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/nani23-c/Leetcode_sol/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/nani23-c/Leetcode_sol/tree/master/0231-power-of-two) |
 | [1014-k-closest-points-to-origin](https://github.com/nani23-c/Leetcode_sol/tree/master/1014-k-closest-points-to-origin) |
@@ -744,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/nani23-c/Leetcode_sol/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/nani23-c/Leetcode_sol/tree/master/0118-pascals-triangle) |
 | [0213-house-robber-ii](https://github.com/nani23-c/Leetcode_sol/tree/master/0213-house-robber-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nani23-c/Leetcode_sol/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -755,4 +757,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nani23-c/Leetcode_sol/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/nani23-c/Leetcode_sol/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
