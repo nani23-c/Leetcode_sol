@@ -608,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nani23-c/Leetcode_sol/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nani23-c/Leetcode_sol/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/nani23-c/Leetcode_sol/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2727-number-of-senior-citizens](https://github.com/nani23-c/Leetcode_sol/tree/master/2727-number-of-senior-citizens) |
 ## Two Pointers
 |  |
 | ------- |
@@ -669,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/nani23-c/Leetcode_sol/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nani23-c/Leetcode_sol/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2487-optimal-partition-of-string](https://github.com/nani23-c/Leetcode_sol/tree/master/2487-optimal-partition-of-string) |
+| [2727-number-of-senior-citizens](https://github.com/nani23-c/Leetcode_sol/tree/master/2727-number-of-senior-citizens) |
 ## Stack
 |  |
 | ------- |
