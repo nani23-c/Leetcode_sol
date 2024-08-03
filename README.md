@@ -579,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/nani23-c/Leetcode_sol/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/nani23-c/Leetcode_sol/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/nani23-c/Leetcode_sol/tree/master/1019-squares-of-a-sorted-array) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nani23-c/Leetcode_sol/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/nani23-c/Leetcode_sol/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2379-maximum-total-importance-of-roads](https://github.com/nani23-c/Leetcode_sol/tree/master/2379-maximum-total-importance-of-roads) |
 | [2650-split-with-minimum-sum](https://github.com/nani23-c/Leetcode_sol/tree/master/2650-split-with-minimum-sum) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/nani23-c/Leetcode_sol/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nani23-c/Leetcode_sol/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nani23-c/Leetcode_sol/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nani23-c/Leetcode_sol/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1720-crawler-log-folder](https://github.com/nani23-c/Leetcode_sol/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/nani23-c/Leetcode_sol/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/nani23-c/Leetcode_sol/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/nani23-c/Leetcode_sol/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nani23-c/Leetcode_sol/tree/master/0560-subarray-sum-equals-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nani23-c/Leetcode_sol/tree/master/1370-count-number-of-nice-subarrays) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nani23-c/Leetcode_sol/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/nani23-c/Leetcode_sol/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/nani23-c/Leetcode_sol/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2487-optimal-partition-of-string](https://github.com/nani23-c/Leetcode_sol/tree/master/2487-optimal-partition-of-string) |
