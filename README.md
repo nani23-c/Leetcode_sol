@@ -652,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/nani23-c/Leetcode_sol/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/nani23-c/Leetcode_sol/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/nani23-c/Leetcode_sol/tree/master/0273-integer-to-english-words) |
+| [0650-2-keys-keyboard](https://github.com/nani23-c/Leetcode_sol/tree/master/0650-2-keys-keyboard) |
 | [0909-stone-game](https://github.com/nani23-c/Leetcode_sol/tree/master/0909-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/nani23-c/Leetcode_sol/tree/master/1014-k-closest-points-to-origin) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/nani23-c/Leetcode_sol/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -766,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/nani23-c/Leetcode_sol/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/nani23-c/Leetcode_sol/tree/master/0118-pascals-triangle) |
 | [0213-house-robber-ii](https://github.com/nani23-c/Leetcode_sol/tree/master/0213-house-robber-ii) |
+| [0650-2-keys-keyboard](https://github.com/nani23-c/Leetcode_sol/tree/master/0650-2-keys-keyboard) |
 | [0909-stone-game](https://github.com/nani23-c/Leetcode_sol/tree/master/0909-stone-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/nani23-c/Leetcode_sol/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Matrix
