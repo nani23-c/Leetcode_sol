@@ -792,4 +792,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/nani23-c/Leetcode_sol/tree/master/0909-stone-game) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/nani23-c/Leetcode_sol/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
