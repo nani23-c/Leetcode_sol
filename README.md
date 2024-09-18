@@ -697,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/nani23-c/Leetcode_sol/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nani23-c/Leetcode_sol/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/nani23-c/Leetcode_sol/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/nani23-c/Leetcode_sol/tree/master/0543-diameter-of-binary-tree) |
@@ -705,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/nani23-c/Leetcode_sol/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nani23-c/Leetcode_sol/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/nani23-c/Leetcode_sol/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/nani23-c/Leetcode_sol/tree/master/0543-diameter-of-binary-tree) |
@@ -726,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/nani23-c/Leetcode_sol/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/nani23-c/Leetcode_sol/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nani23-c/Leetcode_sol/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/nani23-c/Leetcode_sol/tree/master/0513-find-bottom-left-tree-value) |
@@ -734,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/nani23-c/Leetcode_sol/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/nani23-c/Leetcode_sol/tree/master/0207-course-schedule) |
 | [0513-find-bottom-left-tree-value](https://github.com/nani23-c/Leetcode_sol/tree/master/0513-find-bottom-left-tree-value) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/nani23-c/Leetcode_sol/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
