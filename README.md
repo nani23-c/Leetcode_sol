@@ -667,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/nani23-c/Leetcode_sol/tree/master/0222-count-complete-tree-nodes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nani23-c/Leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nani23-c/Leetcode_sol/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/nani23-c/Leetcode_sol/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -698,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/nani23-c/Leetcode_sol/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/nani23-c/Leetcode_sol/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nani23-c/Leetcode_sol/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/nani23-c/Leetcode_sol/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/nani23-c/Leetcode_sol/tree/master/0513-find-bottom-left-tree-value) |
@@ -708,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/nani23-c/Leetcode_sol/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/nani23-c/Leetcode_sol/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nani23-c/Leetcode_sol/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/nani23-c/Leetcode_sol/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/nani23-c/Leetcode_sol/tree/master/0513-find-bottom-left-tree-value) |
@@ -718,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/nani23-c/Leetcode_sol/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0222-count-complete-tree-nodes](https://github.com/nani23-c/Leetcode_sol/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/nani23-c/Leetcode_sol/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/nani23-c/Leetcode_sol/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/nani23-c/Leetcode_sol/tree/master/1435-xor-queries-of-a-subarray) |
