@@ -596,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/nani23-c/Leetcode_sol/tree/master/0041-first-missing-positive) |
 | [0057-insert-interval](https://github.com/nani23-c/Leetcode_sol/tree/master/0057-insert-interval) |
 | [0118-pascals-triangle](https://github.com/nani23-c/Leetcode_sol/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/nani23-c/Leetcode_sol/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/nani23-c/Leetcode_sol/tree/master/0213-house-robber-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nani23-c/Leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nani23-c/Leetcode_sol/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -787,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/nani23-c/Leetcode_sol/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/nani23-c/Leetcode_sol/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/nani23-c/Leetcode_sol/tree/master/0120-triangle) |
 | [0213-house-robber-ii](https://github.com/nani23-c/Leetcode_sol/tree/master/0213-house-robber-ii) |
 | [0650-2-keys-keyboard](https://github.com/nani23-c/Leetcode_sol/tree/master/0650-2-keys-keyboard) |
 | [0909-stone-game](https://github.com/nani23-c/Leetcode_sol/tree/master/0909-stone-game) |
