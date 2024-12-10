@@ -652,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/nani23-c/Leetcode_sol/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/nani23-c/Leetcode_sol/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2487-optimal-partition-of-string](https://github.com/nani23-c/Leetcode_sol/tree/master/2487-optimal-partition-of-string) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nani23-c/Leetcode_sol/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Math
 |  |
 | ------- |
@@ -677,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/nani23-c/Leetcode_sol/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0729-my-calendar-i](https://github.com/nani23-c/Leetcode_sol/tree/master/0729-my-calendar-i) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/nani23-c/Leetcode_sol/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nani23-c/Leetcode_sol/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Linked List
 |  |
 | ------- |
@@ -695,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nani23-c/Leetcode_sol/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2487-optimal-partition-of-string](https://github.com/nani23-c/Leetcode_sol/tree/master/2487-optimal-partition-of-string) |
 | [2727-number-of-senior-citizens](https://github.com/nani23-c/Leetcode_sol/tree/master/2727-number-of-senior-citizens) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nani23-c/Leetcode_sol/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Stack
 |  |
 | ------- |
@@ -783,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/nani23-c/Leetcode_sol/tree/master/0713-subarray-product-less-than-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nani23-c/Leetcode_sol/tree/master/1370-count-number-of-nice-subarrays) |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nani23-c/Leetcode_sol/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -833,4 +837,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/nani23-c/Leetcode_sol/tree/master/0148-sort-list) |
+## Counting
+|  |
+| ------- |
+| [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nani23-c/Leetcode_sol/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 <!---LeetCode Topics End-->
