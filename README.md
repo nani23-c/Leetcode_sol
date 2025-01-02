@@ -697,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/nani23-c/Leetcode_sol/tree/master/0273-integer-to-english-words) |
 | [0468-validate-ip-address](https://github.com/nani23-c/Leetcode_sol/tree/master/0468-validate-ip-address) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nani23-c/Leetcode_sol/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/nani23-c/Leetcode_sol/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1720-crawler-log-folder](https://github.com/nani23-c/Leetcode_sol/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nani23-c/Leetcode_sol/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nani23-c/Leetcode_sol/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -790,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/nani23-c/Leetcode_sol/tree/master/0560-subarray-sum-equals-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/nani23-c/Leetcode_sol/tree/master/1435-xor-queries-of-a-subarray) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/nani23-c/Leetcode_sol/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Sliding Window
 |  |
 | ------- |
