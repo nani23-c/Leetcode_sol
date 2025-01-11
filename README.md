@@ -562,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/nani23-c/Leetcode_sol/tree/master/0011-container-with-most-water) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/nani23-c/Leetcode_sol/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [1502-construct-k-palindrome-strings](https://github.com/nani23-c/Leetcode_sol/tree/master/1502-construct-k-palindrome-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nani23-c/Leetcode_sol/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/nani23-c/Leetcode_sol/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2379-maximum-total-importance-of-roads](https://github.com/nani23-c/Leetcode_sol/tree/master/2379-maximum-total-importance-of-roads) |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/nani23-c/Leetcode_sol/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nani23-c/Leetcode_sol/tree/master/0560-subarray-sum-equals-k) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nani23-c/Leetcode_sol/tree/master/1370-count-number-of-nice-subarrays) |
+| [1502-construct-k-palindrome-strings](https://github.com/nani23-c/Leetcode_sol/tree/master/1502-construct-k-palindrome-strings) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nani23-c/Leetcode_sol/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/nani23-c/Leetcode_sol/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/nani23-c/Leetcode_sol/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -697,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/nani23-c/Leetcode_sol/tree/master/0273-integer-to-english-words) |
 | [0468-validate-ip-address](https://github.com/nani23-c/Leetcode_sol/tree/master/0468-validate-ip-address) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nani23-c/Leetcode_sol/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1502-construct-k-palindrome-strings](https://github.com/nani23-c/Leetcode_sol/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nani23-c/Leetcode_sol/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1720-crawler-log-folder](https://github.com/nani23-c/Leetcode_sol/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nani23-c/Leetcode_sol/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -851,5 +854,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/nani23-c/Leetcode_sol/tree/master/1502-construct-k-palindrome-strings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nani23-c/Leetcode_sol/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 <!---LeetCode Topics End-->
