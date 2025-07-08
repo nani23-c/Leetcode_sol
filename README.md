@@ -699,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nani23-c/Leetcode_sol/tree/master/0022-generate-parentheses) |
 | [0273-integer-to-english-words](https://github.com/nani23-c/Leetcode_sol/tree/master/0273-integer-to-english-words) |
 | [0468-validate-ip-address](https://github.com/nani23-c/Leetcode_sol/tree/master/0468-validate-ip-address) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nani23-c/Leetcode_sol/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -811,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nani23-c/Leetcode_sol/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/nani23-c/Leetcode_sol/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/nani23-c/Leetcode_sol/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/nani23-c/Leetcode_sol/tree/master/0120-triangle) |
@@ -859,4 +861,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/nani23-c/Leetcode_sol/tree/master/1502-construct-k-palindrome-strings) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nani23-c/Leetcode_sol/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/nani23-c/Leetcode_sol/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
