@@ -561,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nani23-c/Leetcode_sol/tree/master/0011-container-with-most-water) |
+| [1018-largest-perimeter-triangle](https://github.com/nani23-c/Leetcode_sol/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/nani23-c/Leetcode_sol/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1502-construct-k-palindrome-strings](https://github.com/nani23-c/Leetcode_sol/tree/master/1502-construct-k-palindrome-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nani23-c/Leetcode_sol/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/nani23-c/Leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/nani23-c/Leetcode_sol/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/nani23-c/Leetcode_sol/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/nani23-c/Leetcode_sol/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/nani23-c/Leetcode_sol/tree/master/1019-squares-of-a-sorted-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/nani23-c/Leetcode_sol/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/nani23-c/Leetcode_sol/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/nani23-c/Leetcode_sol/tree/master/0729-my-calendar-i) |
 | [0909-stone-game](https://github.com/nani23-c/Leetcode_sol/tree/master/0909-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/nani23-c/Leetcode_sol/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/nani23-c/Leetcode_sol/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/nani23-c/Leetcode_sol/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/nani23-c/Leetcode_sol/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nani23-c/Leetcode_sol/tree/master/1370-count-number-of-nice-subarrays) |
@@ -673,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/nani23-c/Leetcode_sol/tree/master/0650-2-keys-keyboard) |
 | [0909-stone-game](https://github.com/nani23-c/Leetcode_sol/tree/master/0909-stone-game) |
 | [1014-k-closest-points-to-origin](https://github.com/nani23-c/Leetcode_sol/tree/master/1014-k-closest-points-to-origin) |
+| [1018-largest-perimeter-triangle](https://github.com/nani23-c/Leetcode_sol/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/nani23-c/Leetcode_sol/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1370-count-number-of-nice-subarrays](https://github.com/nani23-c/Leetcode_sol/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nani23-c/Leetcode_sol/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
