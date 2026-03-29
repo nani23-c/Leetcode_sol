@@ -714,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nani23-c/Leetcode_sol/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2487-optimal-partition-of-string](https://github.com/nani23-c/Leetcode_sol/tree/master/2487-optimal-partition-of-string) |
 | [2727-number-of-senior-citizens](https://github.com/nani23-c/Leetcode_sol/tree/master/2727-number-of-senior-citizens) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/nani23-c/Leetcode_sol/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/nani23-c/Leetcode_sol/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Stack
 |  |
