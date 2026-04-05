@@ -644,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/nani23-c/Leetcode_sol/tree/master/0657-robot-return-to-origin) |
 | [1642-water-bottles](https://github.com/nani23-c/Leetcode_sol/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nani23-c/Leetcode_sol/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nani23-c/Leetcode_sol/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/nani23-c/Leetcode_sol/tree/master/0022-generate-parentheses) |
 | [0273-integer-to-english-words](https://github.com/nani23-c/Leetcode_sol/tree/master/0273-integer-to-english-words) |
 | [0468-validate-ip-address](https://github.com/nani23-c/Leetcode_sol/tree/master/0468-validate-ip-address) |
+| [0657-robot-return-to-origin](https://github.com/nani23-c/Leetcode_sol/tree/master/0657-robot-return-to-origin) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nani23-c/Leetcode_sol/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1502-construct-k-palindrome-strings](https://github.com/nani23-c/Leetcode_sol/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nani23-c/Leetcode_sol/tree/master/1537-maximum-score-after-splitting-a-string) |
