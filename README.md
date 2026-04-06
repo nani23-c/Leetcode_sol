@@ -622,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/nani23-c/Leetcode_sol/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1720-crawler-log-folder](https://github.com/nani23-c/Leetcode_sol/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/nani23-c/Leetcode_sol/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1929-concatenation-of-array](https://github.com/nani23-c/Leetcode_sol/tree/master/1929-concatenation-of-array) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/nani23-c/Leetcode_sol/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nani23-c/Leetcode_sol/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nani23-c/Leetcode_sol/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -648,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/nani23-c/Leetcode_sol/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/nani23-c/Leetcode_sol/tree/master/0874-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/nani23-c/Leetcode_sol/tree/master/1642-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/nani23-c/Leetcode_sol/tree/master/1929-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/nani23-c/Leetcode_sol/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nani23-c/Leetcode_sol/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2645-pass-the-pillow](https://github.com/nani23-c/Leetcode_sol/tree/master/2645-pass-the-pillow) |
